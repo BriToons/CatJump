@@ -1,0 +1,35 @@
+{
+   "Children":
+   [
+		{
+         "Name": "Background",
+         "Type": "PressButton",
+         "Font": "Arial",
+         "TextKey": "",
+         "UpOutState": "background",
+         "UpOverState": "background",
+         "DownOverState": "background",
+         "PositionOffset": "0|0"
+      },
+      {
+         "Name": "Play",
+         "Type": "PressButton",
+         "Font": "Arial",
+         "TextKey": "Play",
+         "UpOutState": "ButtonUp",
+         "UpOverState": "ButtonDown",
+         "DownOverState": "ButtonDown",
+         "PositionOffset": "560|408"
+      },
+      {
+         "Name": "Exit",
+         "Type": "PressButton",
+         "Font": "Arial",
+         "TextKey": "Exit",
+         "UpOutState": "ButtonUp",
+         "UpOverState": "ButtonDown",
+         "DownOverState": "ButtonDown",
+         "PositionOffset": "560|608"
+      }
+   ]
+}

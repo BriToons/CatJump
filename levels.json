@@ -1,0 +1,1670 @@
+{
+"Levels":
+	[
+		{
+			"Level_0": [
+				{
+					"Type": "Background",
+					"Image": "Backgrounds/Level_0"
+				},
+				{
+					"Type": "Windiness",
+					"Intensity": 0.0
+				},
+				{
+					"Type": "StoneMiddleMiddle",
+					"X": 0,
+					"Y": 688
+				},
+				{
+					"Type": "StoneMiddleMiddle",
+					"X": 0,
+					"Y": 608
+				},
+				{
+					"Type": "StoneTopMiddle",
+					"X": 0,
+					"Y": 528
+				},
+				{
+					"Type": "StoneMiddleMiddle",
+					"X": 80,
+					"Y": 688
+				},
+				{
+					"Type": "StoneMiddleMiddle",
+					"X": 80,
+					"Y": 608
+				},
+				{
+					"Type": "StoneTopMiddle",
+					"X": 80,
+					"Y": 528
+				},
+				{
+					"Type": "StoneMiddleMiddle",
+					"X": 160,
+					"Y": 688
+				},
+				{
+					"Type": "StoneMiddleRight",
+					"X": 160,
+					"Y": 608
+				},
+				{
+					"Type": "StoneTopRight",
+					"X": 160,
+					"Y": 528
+				},
+				{
+					"Type": "StoneTopMiddle",
+					"X": 240,
+					"Y": 648
+				},
+				{
+					"Type": "StoneMiddleMiddle",
+					"X": 240,
+					"Y": 688
+				},
+				{
+					"Type": "StoneTopMiddle",
+					"X": 320,
+					"Y": 648
+				},
+				{
+					"Type": "StoneMiddleMiddle",
+					"X": 320,
+					"Y": 688
+				},
+				{
+					"Type": "StoneTopMiddle",
+					"X": 400,
+					"Y": 648
+				},
+				{
+					"Type": "StoneMiddleMiddle",
+					"X": 400,
+					"Y": 688
+				},
+				{
+					"Type": "StoneTopMiddle",
+					"X": 480,
+					"Y": 648
+				},
+				{
+					"Type": "StoneMiddleMiddle",
+					"X": 480,
+					"Y": 688
+				},
+				{
+					"Type": "StoneTopMiddle",
+					"X": 560,
+					"Y": 648
+				},
+				{
+					"Type": "StoneMiddleMiddle",
+					"X": 560,
+					"Y": 688
+				},
+				{
+					"Type": "StoneTopMiddle",
+					"X": 540,
+					"Y": 648
+				},
+				{
+					"Type": "StoneMiddleMiddle",
+					"X": 540,
+					"Y": 688
+				},
+				{
+					"Type": "StoneTopMiddle",
+					"X": 620,
+					"Y": 648
+				},
+				{
+					"Type": "StoneMiddleMiddle",
+					"X": 620,
+					"Y": 688
+				},
+				{
+					"Type": "StoneTopMiddle",
+					"X": 700,
+					"Y": 648
+				},
+				{
+					"Type": "StoneMiddleMiddle",
+					"X": 700,
+					"Y": 688
+				},
+				{
+					"Type": "StoneMiddleMiddle",
+					"X": 780,
+					"Y": 688
+				},
+				{
+					"Type": "StoneMiddleLeft",
+					"X": 780,
+					"Y": 608
+				},
+				{
+					"Type": "StoneTopLeft",
+					"X": 780,
+					"Y": 528
+				},
+				{
+					"Type": "StoneMiddleMiddle",
+					"X": 860,
+					"Y": 688
+				},
+				{
+					"Type": "StoneMiddleMiddle",
+					"X": 860,
+					"Y": 608
+				},
+				{
+					"Type": "StoneTopMiddle",
+					"X": 860,
+					"Y": 528
+				},
+				{
+					"Type": "StoneMiddleMiddle",
+					"X": 940,
+					"Y": 688
+				},
+				{
+					"Type": "StoneMiddleMiddle",
+					"X": 940,
+					"Y": 608
+				},
+				{
+					"Type": "StoneTopMiddle",
+					"X": 940,
+					"Y": 528
+				},
+				{
+					"Type": "StoneBottomMiddle",
+					"X": 0,
+					"Y": 0
+				},
+				{
+					"Type": "StoneBottomMiddle",
+					"X": 80,
+					"Y": 0
+				},
+				{
+					"Type": "StoneBottomMiddle",
+					"X": 160,
+					"Y": 0
+				},
+				{
+					"Type": "StoneBottomMiddle",
+					"X": 240,
+					"Y": 0
+				},
+				{
+					"Type": "StoneBottomRight",
+					"X": 320,
+					"Y": 0
+				},
+				{
+					"Type": "StoneBottomLeft",
+					"X": 460,
+					"Y": 0
+				},
+				{
+					"Type": "StoneBottomMiddle",
+					"X": 540,
+					"Y": 0
+				},
+				{
+					"Type": "StoneBottomMiddle",
+					"X": 620,
+					"Y": 0
+				},
+				{
+					"Type": "StoneBottomRight",
+					"X": 700,
+					"Y": 0
+				},
+				{
+					"Type": "GrassStoneLeft",
+					"X": 315,
+					"Y": 422
+				},
+				{
+					"Type": "GrassStoneMiddle",
+					"X": 395,
+					"Y": 422
+				},
+				{
+					"Type": "GrassStoneMiddle",
+					"X": 475,
+					"Y": 422
+				},
+				{
+					"Type": "GrassStoneMiddle",
+					"X": 555,
+					"Y": 422
+				},
+				{
+					"Type": "GrassStoneRight",
+					"X": 635,
+					"Y": 422
+				},
+				{
+					"Type": "GrassStoneLeft",
+					"X": 80,
+					"Y": 268
+				},
+				{
+					"Type": "GrassStoneRight",
+					"X": 160,
+					"Y": 268
+				},
+				{
+					"Type": "GrassStoneLeft",
+					"X": 400,
+					"Y": 230
+				},
+				{
+					"Type": "GrassStoneRight",
+					"X": 480,
+					"Y": 230
+				},
+				{
+					"Type": "GrassStoneLeft",
+					"X": 700,
+					"Y": 230
+				},
+				{
+					"Type": "GrassStoneRight",
+					"X": 780,
+					"Y": 230
+				},
+				{
+					"Type": "GrassStone",
+					"X": 940,
+					"Y": 100
+				}
+			]
+		},
+		{
+			"Level_1": [
+				{
+					"Type": "Background",
+					"Image": "Backgrounds/Level_1"
+				},
+				{
+					"Type": "Windiness",
+					"Intensity": 0.0
+				},
+				{
+					"Type": "StoneMiddleMiddle",
+					"X": 0,
+					"Y": 688
+				},
+				{
+					"Type": "GrassStoneTopMiddle",
+					"X": 0,
+					"Y": 608
+				},
+				{
+					"Type": "StoneMiddleMiddle",
+					"X": 80,
+					"Y": 688
+				},
+				{
+					"Type": "GrassStoneTopMiddle",
+					"X": 80,
+					"Y": 608
+				},
+				{
+					"Type": "StoneMiddleMiddle",
+					"X": 160,
+					"Y": 688
+				},
+				{
+					"Type": "GrassStoneTopMiddle",
+					"X": 160,
+					"Y": 608
+				},
+				{
+					"Type": "StoneMiddleMiddle",
+					"X": 240,
+					"Y": 688
+				},
+				{
+					"Type": "GrassStoneTopMiddle",
+					"X": 240,
+					"Y": 608
+				},
+				{
+					"Type": "StoneMiddleRight",
+					"X": 320,
+					"Y": 688
+				},
+				{
+					"Type": "GrassStoneTopRight",
+					"X": 320,
+					"Y": 608
+				},
+				{
+					"Type": "GrassStoneTopLeft",
+					"X": 460,
+					"Y": 688
+				},
+				{
+					"Type": "GrassStoneTopMiddle",
+					"X": 540,
+					"Y": 688
+				},
+				{
+					"Type": "GrassStoneTopMiddle",
+					"X": 620,
+					"Y": 688
+				},
+				{
+					"Type": "GrassStoneTopRight",
+					"X": 700,
+					"Y": 688
+				},
+				{
+					"Type": "GrassStone",
+					"X": 90,
+					"Y": 450
+				},
+				{
+					"Type": "GrassStoneLeft",
+					"X": 210,
+					"Y": 360
+				},
+				{
+					"Type": "GrassStoneRight",
+					"X": 290,
+					"Y": 360
+				},
+				{
+					"Type": "GrassStoneLeft",
+					"X": 560,
+					"Y": 400
+				},
+				{
+					"Type": "GrassStoneRight",
+					"X": 640,
+					"Y": 400
+				},
+				{
+					"Type": "GrassStoneLeft",
+					"X": 900,
+					"Y": 330
+				},
+				{
+					"Type": "GrassStoneRight",
+					"X": 980,
+					"Y": 330
+				},
+				{
+					"Type": "GrassStoneLeft",
+					"X": 560,
+					"Y": 180
+				},
+				{
+					"Type": "GrassStoneMiddle",
+					"X": 640,
+					"Y": 180
+				},
+				{
+					"Type": "GrassStoneRight",
+					"X": 720,
+					"Y": 180
+				},
+				{
+					"Type": "GrassStone",
+					"X": 170,
+					"Y": 170
+				},
+				{
+					"Type": "GrassStoneRight",
+					"X": 0,
+					"Y": 100
+				},
+				{
+					"Type": "BottomLeftEdge",
+					"X": 210,
+					"Y": -60
+				},
+				{
+					"Type": "BottomRightEdge",
+					"X": 290,
+					"Y": -60
+				}
+
+			]
+		},
+		{
+			"Level_2": [
+
+				{
+					"Type": "Background",
+					"Image": "Backgrounds/Level_2"
+				},
+				{
+					"Type": "Windiness",
+					"Intensity": 0.00
+				},
+				{
+					"Type": "GrassTopLeft",
+					"X": 210,
+					"Y": 708
+				},
+				{
+					"Type": "GrassTopRight",
+					"X": 290,
+					"Y": 708
+				},
+				{
+					"Type": "GrassRight",
+					"X": 0,
+					"Y": 560
+				},
+				{
+					"Type": "GrassLeft",
+					"X": 210,
+					"Y": 420
+				},
+				{
+					"Type": "GrassRight",
+					"X": 290,
+					"Y": 420
+				},
+				{
+					"Type": "GrassLeft",
+					"X": 620,
+					"Y": 600
+				},
+				{
+					"Type": "GrassRight",
+					"X": 700,
+					"Y": 600
+				},
+
+				{
+					"Type": "GrassLeft",
+					"X": 945,
+					"Y": 500
+				},
+				{
+					"Type": "GrassRight",
+					"X": 720,
+					"Y": 380
+				},
+				{
+					"Type": "GrassLeft",
+					"X": 640,
+					"Y": 380
+				},
+				{
+					"Type": "Grass",
+					"X": 500,
+					"Y": 250
+				},
+				{
+					"Type": "GrassStoneRight",
+					"X": 180,
+					"Y": 120
+				},
+				{
+					"Type": "GrassStoneLeft",
+					"X": 100,
+					"Y": 120
+				},
+				{
+					"Type": "StoneBottomLeft",
+					"X": 400,
+					"Y": 0
+				},
+				{
+					"Type": "StoneBottomRight",
+					"X": 480,
+					"Y": 0
+				}
+
+			]
+		},
+		{
+			"Level_3": [
+				{
+					"Type": "Background",
+					"Image": "Backgrounds/Level_3"
+				},
+				{
+					"Type": "Windiness",
+					"Intensity": 0.0
+				},
+				{
+					"Type": "GrassStoneRight",
+					"X": 0,
+					"Y": 340
+				},
+				{
+					"Type": "GrassStoneLeft",
+					"X": 80,
+					"Y": 400
+				},
+				{
+					"Type": "GrassStoneMiddle",
+					"X": 160,
+					"Y": 400
+				},
+				{
+					"Type": "GrassStoneRight",
+					"X": 240,
+					"Y": 400
+				},
+				{
+					"Type": "GrassStoneLeft",
+					"X": 120,
+					"Y": 220
+				},
+				{
+					"Type": "GrassStoneMiddle",
+					"X": 200,
+					"Y": 220
+				},
+				{
+					"Type": "GrassStoneRight",
+					"X": 280,
+					"Y": 220
+				},
+				{
+					"Type": "GrassStoneLeft",
+					"X": 500,
+					"Y": 400
+				},
+				{
+					"Type": "GrassStoneMiddle",
+					"X": 580,
+					"Y": 400
+				},
+				{
+					"Type": "GrassStoneRight",
+					"X": 640,
+					"Y": 400
+				},
+				{
+					"Type": "GrassStoneLeft",
+					"X": 500,
+					"Y": 50
+				},
+				{
+					"Type": "GrassStoneRight",
+					"X": 580,
+					"Y": 50
+				},
+				{
+					"Type": "GrassStoneLeft",
+					"X": 820,
+					"Y": 70
+				},
+				{
+					"Type": "GrassStoneRight",
+					"X": 900,
+					"Y": 70
+				},
+				{
+					"Type": "GrassStoneTopLeft",
+					"X": 400,
+					"Y": 688
+				},
+				{
+					"Type": "GrassStoneTopRight",
+					"X": 480,
+					"Y": 688
+				},
+				{
+					"Type": "GrassStoneLeft",
+					"X": 740,
+					"Y": 560
+				},
+				{
+					"Type": "GrassStoneMiddle",
+					"X": 820,
+					"Y": 560
+				},
+				{
+					"Type": "GrassStoneRight",
+					"X": 900,
+					"Y": 560
+				}
+			]
+		},
+		{
+			"Level_4": [
+				{
+					"Type": "Background",
+					"Image": "Backgrounds/Level_4"
+				},
+				{
+					"Type": "Windiness",
+					"Intensity": 0.0
+				},
+				{
+					"Type": "GrassStoneLeft",
+					"X": 240,
+					"Y": 660
+				},
+				{
+					"Type": "GrassStoneRight",
+					"X": 320,
+					"Y": 660
+				},
+				{
+					"Type": "GrassStoneLeft",
+					"X": 0,
+					"Y": 660
+				},
+				{
+					"Type": "GrassStoneRight",
+					"X": 80,
+					"Y": 660
+				},
+				{
+					"Type": "NormalPlatform",
+					"X": 200,
+					"Y": 500
+				},
+				{
+					"Type": "NormalPlatform",
+					"X": 200,
+					"Y": 350
+				},
+				{
+					"Type": "NormalPlatform",
+					"X": 450,
+					"Y": 425
+				},
+				{
+					"Type": "NormalPlatform",
+					"X": 680,
+					"Y": 250
+				},
+				{
+					"Type": "NormalPlatform",
+					"X": 200,
+					"Y": 150
+				},
+				{
+					"Type": "NormalPlatform",
+					"X": 75,
+					"Y": 75
+				},
+				{
+					"Type": "StoneBottomLeft",
+					"X": 400,
+					"Y": -60
+				},
+				{
+					"Type": "StoneBottomRight",
+					"X": 480,
+					"Y": -60
+				}
+			]
+		},
+		{
+			"Level_5": [
+				{
+					"Type": "Background",
+					"Image": "Backgrounds/Level_5"
+				},
+				{
+					"Type": "Windiness",
+					"Intensity": 0.0
+				},
+				{
+					"Type": "NormalPlatform",
+					"X": 500,
+					"Y": 460
+				},
+				{
+					"Type": "BranchRight",
+					"X": 950,
+					"Y": 100
+				},
+				{
+					"Type": "BranchLeft",
+					"X": 870,
+					"Y": 100
+				},
+				{
+					"Type": "BranchLeft",
+					"X": 500,
+					"Y": 270
+				},
+				{
+					"Type": "BranchRight",
+					"X": 580,
+					"Y": 270
+				},
+				{
+					"Type": "GrassStoneLeft",
+					"X": 820,
+					"Y": 380
+				},
+				{
+					"Type": "GrassStoneRight",
+					"X": 900,
+					"Y": 380
+				},
+				{
+					"Type": "GrassStoneTopLeft",
+					"X": 400,
+					"Y": 688
+				},
+				{
+					"Type": "GrassStoneTopRight",
+					"X": 480,
+					"Y": 688
+				},
+				{
+					"Type": "GrassStoneLeft",
+					"X": 740,
+					"Y": 560
+				},
+				{
+					"Type": "GrassStoneMiddle",
+					"X": 820,
+					"Y": 560
+				},
+				{
+					"Type": "GrassStoneRight",
+					"X": 900,
+					"Y": 560
+				},
+				{
+					"Type": "StickyBranchLeft",
+					"X": 480,
+					"Y": -60
+				},
+				{
+					"Type": "StickyBranchRight",
+					"X": 560,
+					"Y": -60
+				}
+			]
+		},
+		{
+			"Level_6": [
+				{
+					"Type": "Background",
+					"Image": "Backgrounds/Level_6"
+				},
+				{
+					"Type": "Windiness",
+					"Intensity": 0.0
+				},
+				{
+					"Type": "StickyBranch",
+					"X": 300,
+					"Y": 460
+				},
+				{
+					"Type": "BranchRight",
+					"X": 850,
+					"Y": 100
+				},
+				{
+					"Type": "BranchLeft",
+					"X": 770,
+					"Y": 100
+				},
+				{
+					"Type": "BranchLeft",
+					"X": 400,
+					"Y": 270
+				},
+				{
+					"Type": "BranchRight",
+					"X": 480,
+					"Y": 270
+				},
+				{
+					"Type": "BranchLeft",
+					"X": 720,
+					"Y": 380
+				},
+				{
+					"Type": "BranchRight",
+					"X": 800,
+					"Y": 380
+				},
+				{
+					"Type": "StickyBranchLeft",
+					"X": 480,
+					"Y": 708
+				},
+				{
+					"Type": "StickyBranchRight",
+					"X": 560,
+					"Y": 708
+				},
+				{
+					"Type": "BranchLeft",
+					"X": 740,
+					"Y": 560
+				},
+				{
+					"Type": "BranchMiddle",
+					"X": 820,
+					"Y": 560
+				},
+				{
+					"Type": "StickyBranchLeft",
+					"X": 360,
+					"Y": -60
+				},
+				{
+					"Type": "StickyBranchRight",
+					"X": 440,
+					"Y": -60
+				},
+				{
+					"Type": "BranchRight",
+					"X": 900,
+					"Y": 560
+				}
+			]
+		},
+		{
+			"Level_7": [
+				{
+					"Type": "Background",
+					"Image": "Backgrounds/Level_7"
+				},
+				{
+					"Type": "Windiness",
+					"Intensity": 0.0
+				},
+				{
+					"Type": "StickyBranchLeft",
+					"X": 360,
+					"Y": 708
+				},
+				{
+					"Type": "StickyBranchRight",
+					"X": 440,
+					"Y": 708
+				},
+				{
+					"Type": "BranchRight",
+					"X": 80,
+					"Y": 580
+				},
+				{
+					"Type": "BranchLeft",
+					"X": 0,
+					"Y": 580
+				},
+				{
+					"Type": "StickyBranchLeft",
+					"X": 210,
+					"Y": 420
+				},
+				{
+					"Type": "StickyBranchRight",
+					"X": 290,
+					"Y": 420
+				},
+				{
+					"Type": "Branch",
+					"X": 520,
+					"Y": 300
+				},
+				{
+					"Type": "BranchRight",
+					"X": 190,
+					"Y": 120
+				},
+				{
+					"Type": "BranchLeft",
+					"X": 110,
+					"Y": 120
+				},
+				{
+					"Type": "CloudLeft",
+					"X": 400,
+					"Y": -60
+				},
+				{
+					"Type": "CloudRight",
+					"X": 480,
+					"Y": -60
+				}
+			]
+		},
+		{
+			"Level_8": [
+				{
+					"Type": "Background",
+					"Image": "Backgrounds/Level_8"
+				},
+				{
+					"Type": "Windiness",
+					"Intensity": 0.0
+				},
+				{
+					"Type": "CloudLeft",
+					"X": 400,
+					"Y": 708
+				},
+				{
+					"Type": "CloudRight",
+					"X": 480,
+					"Y": 708
+				},
+				{
+					"Type": "ColdCloudLeft",
+					"X": 90,
+					"Y": 560
+				},
+				{
+					"Type": "ColdCloudMiddle",
+					"X": 170,
+					"Y": 560
+				},
+				{
+					"Type": "ColdCloudRight",
+					"X": 250,
+					"Y": 560
+				},
+				{
+					"Type": "CloudLeft",
+					"X": 270,
+					"Y": 440
+				},
+				{
+					"Type": "CloudRight",
+					"X": 350,
+					"Y": 440
+				},
+				{
+					"Type": "CloudLeft",
+					"X": 0,
+					"Y": 350
+				},
+				{
+					"Type": "CloudRight",
+					"X": 80,
+					"Y": 350
+				},
+				{
+					"Type": "CloudLeft",
+					"X": 220,
+					"Y": 240
+				},
+				{
+					"Type": "CloudRight",
+					"X": 300,
+					"Y": 240
+				},
+				{
+					"Type": "CloudLeft",
+					"X": 0,
+					"Y": 130
+				},
+				{
+					"Type": "CloudRight",
+					"X": 80,
+					"Y": 130
+				},
+				{
+					"Type": "CloudLeft",
+					"X": 300,
+					"Y": 40
+				},
+				{
+					"Type": "CloudRight",
+					"X": 380,
+					"Y": 40
+				},
+				{
+					"Type": "CloudLeft",
+					"X": 0,
+					"Y": -40
+				},
+				{
+					"Type": "CloudRight",
+					"X": 80,
+					"Y": -40
+				}
+
+			]
+		},
+		{
+			"Level_9": [
+				{
+					"Type": "Background",
+					"Image": "Backgrounds/Level_9"
+				},
+				{
+					"Type": "Windiness",
+					"Intensity": 0.5
+				},
+				{
+					"Type": "CloudLeft",
+					"X": 0,
+					"Y": 708
+				},
+				{
+					"Type": "CloudRight",
+					"X": 80,
+					"Y": 708
+				},
+				{
+					"Type": "CloudLeft",
+					"X": 400,
+					"Y": 640
+				},
+				{
+					"Type": "CloudRight",
+					"X": 480,
+					"Y": 640
+				},
+				{
+					"Type": "CloudLeft",
+					"X": 0,
+					"Y": 500
+				},
+				{
+					"Type": "CloudRight",
+					"X": 80,
+					"Y": 500
+				},
+				{
+					"Type": "CloudLeft",
+					"X": 400,
+					"Y": 440
+				},
+				{
+					"Type": "CloudRight",
+					"X": 480,
+					"Y": 440
+				},
+				{
+					"Type": "CloudLeft",
+					"X": 728,
+					"Y": 340
+				},
+				{
+					"Type": "CloudRight",
+					"X": 808,
+					"Y": 340
+				},
+				{
+					"Type": "CloudLeft",
+					"X": 200,
+					"Y": 260
+				},
+				{
+					"Type": "CloudRight",
+					"X": 280,
+					"Y": 260
+				},
+				{
+					"Type": "CloudRight",
+					"X": 0,
+					"Y": 100
+				},
+				{
+					"Type": "CloudLeft",
+					"X": 200,
+					"Y": -20
+				},
+				{
+					"Type": "CloudRight",
+					"X": 280,
+					"Y": -20
+				}
+			]
+		},
+		{
+			"Level_10": [
+				{
+					"Type": "Background",
+					"Image": "Backgrounds/Level_10"
+				},
+				{
+					"Type": "Windiness",
+					"Intensity": -0.6
+				},
+				{
+					"Type": "CloudLeft",
+					"X": 200,
+					"Y": 740
+				},
+				{
+					"Type": "CloudRight",
+					"X": 280,
+					"Y": 740
+				},
+				{
+					"Type": "ColdCloudLeft",
+					"X": 500,
+					"Y": 580
+				},
+				{
+					"Type": "CloudRight",
+					"X": 580,
+					"Y": 580
+				},
+				{
+					"Type": "CloudLeft",
+					"X": 800,
+					"Y": 480
+				},
+				{
+					"Type": "ColdCloudRight",
+					"X": 880,
+					"Y": 480
+				},
+				{
+					"Type": "CloudLeft",
+					"X": 500,
+					"Y": 360
+				},
+				{
+					"Type": "CloudRight",
+					"X": 580,
+					"Y": 360
+				},
+				{
+					"Type": "CloudLeft",
+					"X": 120,
+					"Y": 300
+				},
+				{
+					"Type": "CloudRight",
+					"X": 200,
+					"Y": 300
+				},
+				{
+					"Type": "CloudLeft",
+					"X": 560,
+					"Y": 140
+				},
+				{
+					"Type": "CloudRight",
+					"X": 640,
+					"Y": 140
+				},
+				{
+					"Type": "ColdCloudLeft",
+					"X": 760,
+					"Y": 50
+				},
+				{
+					"Type": "ColdCloudRight",
+					"X": 840,
+					"Y": 50
+				},
+				{
+					"Type": "CloudLeft",
+					"X": 400,
+					"Y": -60
+				},
+				{
+					"Type": "CloudRight",
+					"X": 480,
+					"Y": -60
+				}
+
+			]
+		},
+		{
+			"Level_11": [
+				{
+					"Type": "Background",
+					"Image": "Backgrounds/Level_11"
+				},
+				{
+					"Type": "Windiness",
+					"Intensity": 0.3
+				},
+				{
+					"Type": "CloudLeft",
+					"X": 400,
+					"Y": 708
+				},
+				{
+					"Type": "CloudRight",
+					"X": 480,
+					"Y": 708
+				},
+				{
+					"Type": "CloudLeft",
+					"X": 680,
+					"Y": 580
+				},
+				{
+					"Type": "CloudRight",
+					"X": 760,
+					"Y": 580
+				},
+				{
+					"Type": "CloudLeft",
+					"X": 300,
+					"Y": 460
+				},
+				{
+					"Type": "CloudRight",
+					"X": 380,
+					"Y": 460
+				},
+				{
+					"Type": "CloudRight",
+					"X": 0,
+					"Y": 340
+				},
+				{
+					"Type": "ColdCloudLeft",
+					"X": 200,
+					"Y": 200
+				},
+				{
+					"Type": "ColdCloudRight",
+					"X": 280,
+					"Y": 200
+				},
+				{
+					"Type": "ColdCloudLeft",
+					"X": 680,
+					"Y": 200
+				},
+				{
+					"Type": "ColdCloudRight",
+					"X": 760,
+					"Y": 200
+				},
+				{
+					"Type": "CloudLeft",
+					"X": 940,
+					"Y": 60
+				},
+				{
+					"Type": "CloudRight",
+					"X": 1020,
+					"Y": 60
+				},
+				{
+					"Type": "CloudLeft",
+					"X": 480,
+					"Y": -60
+				},
+				{
+					"Type": "CloudRight",
+					"X": 560,
+					"Y": -60
+				}
+			]
+		},
+		{
+			"Level_12": [
+				{
+					"Type": "Background",
+					"Image": "Backgrounds/Level_12"
+				},
+				{
+					"Type": "Windiness",
+					"Intensity": 0.0
+				},
+				{
+					"Type": "CloudLeft",
+					"X": 480,
+					"Y": 708
+				},
+				{
+					"Type": "CloudRight",
+					"X": 560,
+					"Y": 708
+				},
+				{
+					"Type": "CloudLeft",
+					"X": 880,
+					"Y": 600
+				},
+				{
+					"Type": "CloudRight",
+					"X": 960,
+					"Y": 600
+				},
+				{
+					"Type": "CloudLeft",
+					"X": 420,
+					"Y": 500
+				},
+				{
+					"Type": "CloudRight",
+					"X": 500,
+					"Y": 500
+				},
+				{
+					"Type": "CloudLeft",
+					"X": 0,
+					"Y": 350
+				},
+				{
+					"Type": "CloudRight",
+					"X": 80,
+					"Y": 350
+				},
+				{
+					"Type": "CloudLeft",
+					"X": 400,
+					"Y": 250
+				},
+				{
+					"Type": "CloudRight",
+					"X": 480,
+					"Y": 250
+				},
+				{
+					"Type": "CloudLeft",
+					"X": 0,
+					"Y": 100
+				},
+				{
+					"Type": "CloudRight",
+					"X": 80,
+					"Y": 100
+				},
+				{
+					"Type": "CloudLeft",
+					"X": 560,
+					"Y": 80
+				},
+				{
+					"Type": "CloudRight",
+					"X": 640,
+					"Y": 80
+				}
+
+			]
+		},
+		{
+			"Level_13": [
+				{
+					"Type": "Background",
+					"Image": "Backgrounds/Level_13"
+				},
+				{
+					"Type": "Windiness",
+					"Intensity": 0.0
+				},
+				{
+					"Type": "SpaceLeft",
+					"X": 900,
+					"Y": 688
+				},
+				{
+					"Type": "SpaceRight",
+					"X": 980,
+					"Y": 688
+				},
+				{
+					"Type": "Space",
+					"X": 660,
+					"Y": 600
+				},
+				{
+					"Type": "SpaceLeft",
+					"X": 920,
+					"Y": 500
+				},
+				{
+					"Type": "SpaceRight",
+					"X": 1000,
+					"Y": 500
+				},
+				{
+					"Type": "Space",
+					"X": 680,
+					"Y": 360
+				},
+
+				{
+					"Type": "Space",
+					"X": 140,
+					"Y": 400
+				},
+				{
+					"Type": "SpaceRight",
+					"X": 0,
+					"Y": 310
+				},
+				{
+					"Type": "Space",
+					"X": 240,
+					"Y": 150
+				},
+				{
+					"Type": "SpaceLeft",
+					"X": 600,
+					"Y": 100
+				},
+				{
+					"Type": "SpaceRight",
+					"X": 680,
+					"Y": 100
+				}
+
+			]
+		},
+		{
+			"Level_14": [
+				{
+					"Type": "Background",
+					"Image": "Backgrounds/Level_14"
+				},
+				{
+					"Type": "Windiness",
+					"Intensity": 0.0
+				},
+				{
+					"Type": "Space",
+					"X": 880,
+					"Y": 688
+				},
+				{
+					"Type": "SpaceLeft",
+					"X": 740,
+					"Y": 510
+				},
+				{
+					"Type": "SpaceRight",
+					"X": 820,
+					"Y": 510
+				},
+				{
+					"Type": "SpaceLeft",
+					"X": 160,
+					"Y": 500
+				},
+				{
+					"Type": "SpaceRight",
+					"X": 240,
+					"Y": 500
+				},
+				{
+					"Type": "SpaceLeft",
+					"X": -10,
+					"Y": 400
+				},
+				{
+					"Type": "SpaceRight",
+					"X": 70,
+					"Y": 400
+				},
+				{
+					"Type": "SpaceLeft",
+					"X": 280,
+					"Y": 250
+				},
+				{
+					"Type": "SpaceRight",
+					"X": 360,
+					"Y": 250
+				},
+				{
+					"Type": "Space",
+					"X": 820,
+					"Y": 240
+				},
+				{
+					"Type": "SpaceLeft",
+					"X": 960,
+					"Y": 120
+				},
+				{
+					"Type": "Space",
+					"X": 800,
+					"Y": 50
+				}
+
+			]
+		},
+		{
+			"Level_15": [
+				{
+					"Type": "Background",
+					"Image": "Backgrounds/Level_15"
+				},
+				{
+					"Type": "Windiness",
+					"Intensity": 0.0
+				},
+				{
+					"Type": "Space",
+					"X": 680,
+					"Y": 688
+				},
+				{
+					"Type": "SpaceLeft",
+					"X": 940,
+					"Y": 640
+				},
+				{
+					"Type": "SpaceRight",
+					"X": 1020,
+					"Y": 640
+				},
+				{
+					"Type": "Space",
+					"X": 150,
+					"Y": 688
+				},
+				{
+					"Type": "SpaceRight",
+					"X": 0,
+					"Y": 580
+				},
+				{
+					"Type": "Space",
+					"X": 200,
+					"Y": 520
+				},
+				{
+					"Type": "Space",
+					"X": 500,
+					"Y": 420
+				},
+				{
+					"Type": "Space",
+					"X": 920,
+					"Y": 320
+				},
+				{
+					"Type": "Space",
+					"X": 560,
+					"Y": 200
+				},
+				{
+					"Type": "SpaceLeft",
+					"X": 100,
+					"Y": 180
+				},
+				{
+					"Type": "SpaceRight",
+					"X": 180,
+					"Y": 180
+				},
+				{
+					"Type": "SpaceRight",
+					"X": 0,
+					"Y": 60
+				}
+			]
+		},
+		{
+			"Level_16": [
+				{
+					"Type": "Background",
+					"Image": "Backgrounds/Level_16"
+				},
+				{
+					"Type": "Windiness",
+					"Intensity": 0.0
+				},
+				{
+					"Type": "SpaceLeft",
+					"X": 775,
+					"Y": 200
+				},
+				{
+					"Type": "SpaceRight",
+					"X": 855,
+					"Y": 200
+				},
+				{
+					"Type": "Space",
+					"X": 180,
+					"Y": 688
+				},
+				{
+					"Type": "Space",
+					"X": 700,
+					"Y": 688
+				},
+				{
+					"Type": "SpaceLeft",
+					"X": 940,
+					"Y": 550
+				},
+				{
+					"Type": "Space",
+					"X": 680,
+					"Y": 500
+				},
+				{
+					"Type": "SpaceLeft",
+					"X": 160,
+					"Y": 450
+				},
+				{
+					"Type": "SpaceRight",
+					"X": 240,
+					"Y": 450
+				},
+				{
+					"Type": "SpaceRight",
+					"X": 0,
+					"Y": 360
+				},
+				{
+					"Type": "Space",
+					"X": 260,
+					"Y": 240
+				}
+			]
+		}
+
+]
+}
